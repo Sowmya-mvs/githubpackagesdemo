@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sowmya-mvs/githubpackagesdemo/issues"
   },
+  "publishConfig": {
+  "@Sowmya-mvs:registry": "https://npm.pkg.github.com"
+},
   "homepage": "https://github.com/Sowmya-mvs/githubpackagesdemo#readme"
 }
